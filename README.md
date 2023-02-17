@@ -19,7 +19,7 @@ Avant de passer à la partie suivante, n'oubliez pas un petit `apt-get update` d
 
 > Ce tp est un _follow the guide_, il devrait donc être bouclé en 20min (installation comprise).
  
-> Vous  pouvez suivre votre avancement sur [https://epita.adricotier.com/tplinux/advancement](https://adricotier.com/advancement)
+> Vous  pouvez suivre votre avancement sur [https://epita.adricotier.com/tplinux/advancement](https://adricotier.com/tplinux/advancement)
 > Attention: Avoir 100% ne veut pas dire 20/20 ! D'autres variables calculées par la moulinette rentrent en jeu. Par contre, un 0% à de forte chance de ne pas vous rapporter beaucoup de point...
 
 Le programme de ce TP:
