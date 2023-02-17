@@ -90,7 +90,7 @@ Dans cette partie, nous allons tout simplement installer les outils que nous all
 
 Pour ce tp, vous allez utiliser un _backend_ en Node JS très simple qui s'occupera de vous retourner des _hash_. Le code est volontairement "pas-super-lisible", non pas pour éviter la triche, mais surtout parce que le but du tp est l’orchestration du serveur et non la logique du _backend_.
 
-`clone https://github.com/adrienfenech/tplinux_locale.git`
+`clone https://github.com/adrienfenech/ms-tp-linux-local.git`
 
 Une fois cloné, un petit `npm install` à l'intérieur du projet sera le bienvenu.
 
